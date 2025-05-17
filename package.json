@@ -1,0 +1,8 @@
+{
+  "name": "shush-ai-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension to hide LinkedIn posts containing 'AI' or 'LLM' from the feed.",
+  "scripts": {
+    "zip": "zip -r shush-ai.zip manifest.json content.js icon.png"
+  }
+}
